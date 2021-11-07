@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImplicitIntent</string>
+    <string name="DefaultMessage">Please type a message to send</string>
+    <string name="SendButton">Send Message</string>
+    <string name="ShowMap">Show Map</string>
+    <string name="showContacts">Show Contacts</string>
+</resources>
